@@ -22,7 +22,9 @@
     * **package-lock.json:** Complementary to "package.json"
     
     > Use the following command to run the project:
+    
     ```npm run dev ```
+    
     And that's all, now you can use it in your own project. Do not forget start this repo.
 
     ##### by: Jair Bracasnegras Estrada **/@theblackbar**
