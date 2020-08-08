@@ -14,11 +14,12 @@
      * **routes:**  You can use this folder to manage the acces routes in your application.
      > The main route is always mark as /
      * **views:** Use this folder to manage the final views for the browser.
-     >html, javascript or css content
+     > html, javascript or css content
     * **index.js:** This file manages the server of the project.
     * **.gitignore:** Manages the node dependencies to low the size of the git repository.
     > Generally node_modules folder is listed
     * **package.json:** Describe the project and list the dependencies. 
+    > You can also edit this file to set the author or descriptio's project.
     * **package-lock.json:** Complementary to "package.json"
     
     > Use the following command to run the project:
