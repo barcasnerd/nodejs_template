@@ -26,6 +26,6 @@
     
     ```npm run dev ```
     
-    And that's all, now you can use it in your own project. Do not forget start this repo.
+    And that's all, now you can use it in your own project. Do not forget to give a star this repo.
 
     ##### by: Jair Bracasnegras Estrada **/@theblackbar**
