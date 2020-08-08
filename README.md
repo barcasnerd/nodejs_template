@@ -19,7 +19,7 @@
     * **.gitignore:** Manages the node dependencies to low the size of the git repository.
     > Generally node_modules folder is listed
     * **package.json:** Describe the project and list the dependencies. 
-    > You can also edit this file to set the author or descriptio's project.
+    > You can also edit this file to set the author or project's descriptio.
     * **package-lock.json:** Complementary to "package.json"
     
     > Use the following command to run the project:
